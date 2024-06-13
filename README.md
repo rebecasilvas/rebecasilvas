@@ -2,7 +2,7 @@
 
 Meu nome é Rebeca Silva
 
- - Estou estudando na escola Estadual Vitor Meireles, na Cidade de Campinas, no estado de São Paulo, 
+ - Estou estudando na escola Estadual 
  - Estou cursando o Alura
  - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
